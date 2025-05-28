@@ -11,7 +11,7 @@
 🛒 [SuperMarket C Project](https://github.com/Ranavivcs/SuperMarket_C_Project)  
 A modular C program managing customers, products, and shopping carts — using binary file I/O and dynamic memory.
 
-🚀 [Space Dodge Android Game](https://github.com/Ranavivcs/Space-Dodge)  
+🚀 [Space Dodge Android Game](https://github.com/Ranavivcs/DodgeGameApp)  
 Fast-paced Android game where you dodge meteors in a spaceship using buttons or sensors.
 
 📊 [Telegram-to-Excel Scraper](https://github.com/Ranavivcs/TelegramScraper)  
