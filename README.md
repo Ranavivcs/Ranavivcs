@@ -14,8 +14,8 @@ A modular C program managing customers, products, and shopping carts — using b
 🚀 [Space Dodge Android Game](https://github.com/Ranavivcs/DodgeGameApp)  
 Fast-paced Android game where you dodge meteors in a spaceship using buttons or sensors.
 
-📊 [Telegram-to-Excel Scraper](https://github.com/Ranavivcs/TelegramScraper)  
-Python script to extract messages from Telegram groups into an Excel sheet using `telethon`.
+👑 [Save The Princess - Unity Game](https://Ranavivcs/Unity_Game_Project)  
+A 2D platformer built in Unity for a university course — jump, dodge, and fight your way to rescue the princess using classic game mechanics and modular C# scripting.
 
 ---
 
