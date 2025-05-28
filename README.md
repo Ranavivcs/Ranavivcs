@@ -8,6 +8,9 @@
 
 ## 💼 Projects
 
+🧰 [Mini Supermarket - Java Project](https://github.com/YOUR_USERNAME/MiniSupermarket-Java)  
+A compact Java OOP project modeling a supermarket. Includes core classes like `Product`, `Buyer`, `Cart`, and `MarketManager`, with a focus on inheritance and encapsulation.
+
 🛒 [SuperMarket C Project](https://github.com/Ranavivcs/SuperMarket_C_Project)  
 A modular C program managing customers, products, and shopping carts — using binary file I/O and dynamic memory.
 
