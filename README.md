@@ -31,7 +31,7 @@ A 2D platformer built in Unity for a university course — jump, dodge, and figh
 
 **Languages:** C, Java, Python, Kotlin  
 **Tools:** Android Studio, Git, Visual Studio, Unity  
-**Concepts:** OOP, memory management, game loops, fork/exec, binary file handling, Makefiles
+**Concepts:** OOP, memory management, binary file handling
 
 ---
 
