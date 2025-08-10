@@ -8,7 +8,7 @@
 
 ## 💼 Projects
 
-📱 [FOMO - Android App](https://github.com/Ranavivcs/FOMO-App)  
+📱 [FOMO - Android App](https://github.com/Ranavivcs/FOMO_App)  
 A social competition app designed to turn "Fear of Missing Out" into motivation.  
 Users join groups, log activities, compete in challenges, and track leaderboards.  
 Includes **Firebase Auth**, **Firestore**, **Google Maps**, **FCM push**, and Firebase Functions.
