@@ -7,13 +7,13 @@
 ---
 
 ## 💼 Projects
-FOMO - Android App
+[FOMO - Android App](https://github.com/Ranavivcs/FOMO_app) 
 A social competition app designed to turn "Fear of Missing Out" into motivation.
 Users join groups, log activities, compete in challenges, and track leaderboards.
 Includes Firebase Authentication, Firestore, Google Maps integration, and real-time push notifications with Firebase Cloud Messaging.
 Built with modular architecture, clean UI, and a scalable backend using Firebase Functions
 
-🧰 [Mini Supermarket - Java Project](https://github.com/YOUR_USERNAME/MiniSupermarket-Java)  
+🧰 [Mini Supermarket - Java Project](https://github.com/Ranavivcs/MiniSupermarket-Java)  
 A compact Java OOP project modeling a supermarket. Includes core classes like Product, Buyer, Cart, and MarketManager, with a focus on inheritance and encapsulation.
 
 🛒 [SuperMarket C Project](https://github.com/Ranavivcs/SuperMarket_C_Project)  
