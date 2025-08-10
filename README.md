@@ -2,7 +2,7 @@
 
 🎓 Computer Science Student at Afeka - College of Engineering  
 💻 Passionate about systems programming, games, and building stuff in C, Java, and Android  
-🏋️‍♂️ Certified Fitness Trainer | Runner | Nerd
+
 
 ---
 
