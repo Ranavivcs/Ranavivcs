@@ -3,19 +3,10 @@ Hi, I'm Ran 👋
 
 🚀 I build real-world applications with a focus on Android, backend systems, and clean architecture.
 
-🔹 Tech Stack:
-- Kotlin, Java, C, Python
-- Android SDK, Firebase, Google Maps API
-- Git, Linux, Unity
-
 📌 Featured Projects:
 - FOMO – Social Competition Android App
 - SuperMarket – C-based Management System
 - Save The Princess – Unity 2D Game
-
-📫 Reach me:
-- Email: Ranaviv.cs@gmail.com
-- LinkedIn: linkedin.com/in/ran-aviv
 
 ## 💼 Projects
 
