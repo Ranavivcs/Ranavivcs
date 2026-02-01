@@ -4,7 +4,7 @@ Hi, I'm Ran 👋
 🚀 I build real-world applications with a focus on Android, backend systems, recommendation systems, and clean architecture.
 
 📌 Featured Projects:
-- ⭐ Gaminator – Smart Gaming Recommendation Engine (Main Project)
+⭐ Gaminator – Smart Gaming Recommendation Engine (Main Project) ⭐
 - FOMO – Social Competition Android App
 - SuperMarket – C-based Management System
 - Save The Princess – Unity 2D Game
