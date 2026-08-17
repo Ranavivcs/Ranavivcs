@@ -5,7 +5,7 @@ Hi, I'm Ran 👋
 
 📌 Featured Projects:
 -
-⭐ Gaminator – Smart Gaming Recommendation Engine (Main Project) ⭐
+⭐ PlayNext – Personalized Steam Game Recommendation Engine (Main Project) ⭐
 - FOMO – Social Competition Android App
 - SuperMarket – C-based Management System
 - Save The Princess – Unity 2D Game
@@ -14,20 +14,20 @@ Hi, I'm Ran 👋
 
 ## 💼 Projects
 
-⭐ **[Gaminator – Smart Gaming Recommendation Engine](https://github.com/Ranavivcs/SmartGamingEngineRecommendation---Gaminator)**  
-A full-stack gaming recommendation system that learns from user feedback to improve future suggestions.  
-Users can like/dislike recommendations and provide textual feedback, which is stored and analyzed to personalize future results.
+⭐ **[PlayNext – Personalized Steam Game Recommendation Engine](https://github.com/Ranavivcs/PlayNext)**  
+A full-stack Steam game recommender built around a real, explainable ranking algorithm — implemented from scratch, not an AI wrapper. It links your Steam account, learns your taste from the games you own and how long you've played them, and ranks the games you don't own yet. A separate AI layer only *explains* each pick — it never ranks.
 
 **Key Features:**
-- Personalized game recommendations
-- Feedback-aware learning system
-- Integration with external game APIs
-- Supabase database & authentication
-- Secure environment configuration
+- Hybrid ranking engine using classic CS algorithms: TF-IDF + cosine similarity, multi-source Dijkstra over a k-NN game graph (transitive similarity), and Kruskal MST single-linkage clustering for diversity
+- Adaptive engine that detects whether a library is focused or diverse and tunes its weighting per user
+- Learning-to-rank + an offline evaluation harness (NDCG@10, leave-one-out, de-biased synthetic benchmark) — content beats a popularity baseline by ~2 orders of magnitude
+- Grounded AI "why this match?" explanations (Claude), generated after ranking — explains, never ranks
+- Steam OpenID + Steam Web API + SteamSpy ingest, with a ~2,500-game enriched catalog
+- Supabase (Postgres + pgvector + Auth) with row-level security
 
-**Tech:** Next.js, TypeScript, Node.js, Supabase, REST APIs
+**Tech:** Next.js 16, React 19, TypeScript, Supabase, Claude API, Steam Web API, Vercel
 
-> ⚠️ Requires API keys and database setup. See `SETUP.md` for configuration instructions.
+> ⚠️ Requires a Supabase project, a Steam Web API key, and an Anthropic API key. See the repo README for setup.
 
 ---
 
