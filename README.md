@@ -1,11 +1,12 @@
 Hi, I'm Ran 👋  
-3rd-year Software Engineering student at Afeka College.
+B.Sc. Software Engineering graduate from Afeka College 🎓  
+Open to junior software engineering roles.
 
-🚀 I build real-world applications with a focus on Android, backend systems, recommendation systems, and clean architecture.
+🚀 I build real-world applications with a focus on full-stack web, Android, backend systems, recommendation systems, and clean architecture.
 
 📌 Featured Projects:
--
-⭐ PlayNext – Personalized Steam Game Recommendation Engine (Main Project) ⭐
+- ⭐ PlayNext – Personalized Steam Game Recommendation Engine (Main Project) ⭐
+- Job Tracker – Full-Stack React + Express App
 - FOMO – Social Competition Android App
 - SuperMarket – C-based Management System
 - Save The Princess – Unity 2D Game
@@ -31,6 +32,13 @@ A full-stack Steam game recommender built around a real, explainable ranking alg
 
 ---
 
+📋 **[Job Tracker – Full-Stack Application Tracker](https://github.com/Ranavivcs/job-tracker)**  
+A full-stack app I built and use for my own job search. It tracks every application, where it stands, and what happened along the way.  
+Dashboard with response rate and a pipeline breakdown, status filters, search, inline status updates, and a per-job timeline.  
+**Tech:** React 19 (hooks), Vite, Node.js, Express 5, REST API (GET / POST / PATCH / DELETE)
+
+---
+
 📱 **[FOMO - Android App](https://github.com/Ranavivcs/FOMO_App)**  
 A social competition app designed to turn "Fear of Missing Out" into motivation.  
 Users join groups, log activities, compete in challenges, and track leaderboards.  
@@ -38,7 +46,7 @@ Includes **Firebase Auth**, **Firestore**, **Google Maps**, **FCM push**, and Fi
 
 ---
 
-🧰 **[Mini Supermarket - Java Project](https://github.com/Ranavivcs/MiniSupermarket-Java)**  
+🧰 **[Mini Supermarket - Java Project](https://github.com/Ranavivcs/Java_OOP_Project)**  
 A compact Java OOP project modeling a supermarket. Includes core classes like Product, Buyer, Cart, and MarketManager, with a focus on inheritance and encapsulation.
 
 ---
@@ -53,16 +61,16 @@ Fast-paced Android game where you dodge meteors in a spaceship using buttons or 
 
 ---
 
-👑 **[Save The Princess - Unity Game](https://Ranavivcs/Unity_Game_Project)**  
+👑 **[Save The Princess - Unity Game](https://github.com/Ranavivcs/Unity_Game_Project)**  
 A 2D platformer built in Unity — jump, dodge, and fight your way to rescue the princess using classic game mechanics and modular C# scripting.
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:** C, Java, Python, Kotlin, TypeScript  
-**Frameworks:** Next.js, Firebase, Supabase  
-**Tools:** Android Studio, Git, Visual Studio, Unity  
+**Languages:** C, Java, Python, Kotlin, TypeScript, JavaScript, C#  
+**Frameworks:** React, Next.js, Node.js, Express, Firebase, Supabase  
+**Tools:** Android Studio, Git, VS Code, Visual Studio, Unity  
 **Concepts:** OOP, Clean Architecture, Recommendation Systems, Memory Management, REST APIs
 
 ---
